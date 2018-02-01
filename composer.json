@@ -1,5 +1,5 @@
 {
-	"name": "craue/config-bundle",
+	"name": "nti/config-bundle",
 	"type": "symfony-bundle",
 	"description": "Database-stored settings made available via a service for your Symfony project.",
 	"keywords": ["config", "symfony2", "symfony3", "symfony4"],
@@ -30,7 +30,7 @@
 	"minimum-stability": "stable",
 	"autoload": {
 		"psr-4": {
-			"Craue\\ConfigBundle\\": ""
+			"NTI\\ConfigBundle\\": ""
 		},
 		"exclude-from-classmap": [
 			"/Tests/"
